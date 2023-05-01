@@ -1,1 +1,1 @@
-I’m Guoguang Du, a Senior Algorithm Engineer in CloudMinds Technologies. I got my PhD Degree on computer graphics from Beijing Normal University in Jan 2018. My research interest includes 3D computer vision and deep learning. This is my homepage.
+I’m Guoguang Du, currently a researcher of State Key Laboratory of High-End Server and Storage Technology, Inspur Electronic Information Industry Co., Ltd. I got my PhD Degree on computer graphics from Beijing Normal University in Jan 2018. My research interest includes 3D computer vision and deep learning. This is my homepage.
